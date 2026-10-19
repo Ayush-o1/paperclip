@@ -1,0 +1,17 @@
+
+{
+  "name": "paperclip",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A transactional e-commerce platform built with Node.js, Express, and PostgreSQL.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ayush-o1/paperclip.git"
+  }
+}

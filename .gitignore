@@ -1,0 +1,22 @@
+
+# Dependencies
+node_modules/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Test and coverage output
+coverage/
+
+# Logs
+logs/
+*.log
+
+# Generated output
+dist/
+
+# macOS and editor files
+.DS_Store
+.vscode/
